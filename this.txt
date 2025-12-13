@@ -1,0 +1,3 @@
+*.logv fdhhded
+dir
+ss this is asif
